@@ -1,57 +1,88 @@
-# 👋 Hi, I'm Hosein Parinoor
+<div align="center">
 
-<details open>
-<summary>💡 About Me</summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:282C34&height=200&section=header&text=Hossein%20Parinour&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Junior%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-💻 Front-End Developer | 22 years old from Miandoab  
-Currently learning **JavaScript** and soon **React** & **Tailwind CSS**  
-💡 *"Step by step, building a better world with code."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=550&lines=Building+with+HTML%2C+CSS+%26+JavaScript;Wrapping+up+my+final+JS+project;Next+stop%3A+React+%E2%9A%9B%EF%B8%8F" />
 
-</details>
+<br/>
 
----
+<a href="https://linkedin.com/in/hosein-parinoor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/hoseineng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=hoseineng&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" />
 
-## 🧠 Skills
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
----
+## 🧭 About Me
+
+```js
+const hossein = {
+  role: "Junior Frontend Developer (in progress)",
+  location: "West Azerbaijan, Iran",
+  education: "Computer Engineering @ Payame Noor University",
+  currentlyBuilding: "Final JavaScript project",
+  currentlyLearning: "React ⚛️",
+  askMeAbout: ["HTML/CSS", "JavaScript", "Git & GitHub"],
+  funFact: "I write clean commits and I'm proud of it 😄",
+};
+```
+
+- 🎓 Studying **Computer Engineering** (distance education)
+- 💻 Solid foundation in **HTML5 & CSS3**, completed a full **JavaScript** course
+- 🛠️ Actively building a **multi-page JavaScript project** using proper **Git** workflow
+- ⚛️ Currently leveling up toward **React**
+- 🎯 Looking for **Junior Frontend / React** opportunities and collaborations
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📌 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/hoseineng/repo-name">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoseineng&repo=repo-name&theme=dark&hide_border=true" />
+</a>
+
+</div>
+
+> Replace `repo-name` above with your final JavaScript project's actual repo name once it's up — pinning it here makes it the first thing recruiters see.
+> 🔗 [Live Demo](#) &nbsp;|&nbsp; 🧾 Built with vanilla JavaScript, HTML5, CSS3
+
+<br/>
 
 ## 📊 GitHub Stats
 
-![Hosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseineng&show_icons=true&count_private=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseineng&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=hoseineng&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoseineng&theme=dark&hide_border=true" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseineng&layout=compact&theme=dark&hide_border=true" height="165"/>
 
-## 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/hoseineng/hoseineng/output/github-contribution-snake.svg)
+</div>
 
-> To generate this yourself, visit: [Platane/snk](https://github.com/Platane/snk)
+<br/>
 
----
+<div align="center">
 
-## ⌨️ Typing Animation
+### 🤝 Let's Build Something Together
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EC866&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hosein+Parinoor!;Front-End+Developer+learning+JavaScript+and+React)
+I'm actively looking for **junior frontend roles** and open-source collaborations.
+Feel free to reach out — I reply fast and learn faster. 🚀
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282C34,100:61DAFB&height=100&section=footer"/>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosein-parinoor)
+</div>
 
----
-
-## ⚡ Note
-This profile README is **fully dynamic**:  
-- GitHub stats & top languages update automatically  
-- Contribution Snake refreshes daily  
-- Typing animation is live & eye-catching  
-
-> Perfect for showcasing your skills professionally!
 
